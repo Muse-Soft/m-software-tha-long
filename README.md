@@ -1,11 +1,23 @@
-# Thả Lỏng — Studio yoga
+# Thả Lỏng
 
-Landing page 1 trang cho studio yoga Thả Lỏng (dành cho người mới bắt đầu và dân văn phòng).
+Trang giới thiệu (landing page) **tĩnh** — trang giới thiệu cho Thả Lỏng. Trang được dựng bằng HTML, CSS và JavaScript thuần, không cần bước biên dịch.
 
-- Yêu cầu web: MSR-42 (repo m-software-requests #42)
-- Linear Project: m-software-tha-long
-- Phạm vi: 1 landing page, không backend. Form đặt lịch học thử chỉ giao diện.
-- Công thức gợi ý: nền #F4F1EA, chữ #2E2A33, nhấn #7C6A9E; Playfair Display + Be Vietnam Pro; phong cách Japandi tối giản.
-- Giá hiển thị đều là giá mẫu; địa chỉ, điện thoại và thông tin thật là placeholder [CẦN BỔ SUNG].
+> Mọi tên, số điện thoại, địa chỉ và số liệu trên trang đều là **dữ liệu mẫu**. Giá hiển thị là **giá mẫu**. Biểu mẫu (nếu có) chỉ là giao diện minh họa: không gửi dữ liệu đi đâu và không có backend.
 
-Demo: https://m-software-tha-long.genalpha.dev
+**Demo trực tuyến:** https://m-software-tha-long.genalpha.dev
+**Giấy phép:** [MIT](LICENSE) © M-Software
+
+## Cách xem
+
+Mở `index.html` bằng trình duyệt (nhấp đúp, không cần máy chủ), hoặc mở liên kết demo ở trên. Giữ nguyên các tệp cùng thư mục vì liên kết là tương đối.
+
+| Tệp | Nội dung |
+|---|---|
+| `README.md` | Tài liệu giới thiệu này |
+| `index.html` | Trang chính |
+
+## English
+
+A **static** landing page for Thả Lỏng, built with plain HTML, CSS and JavaScript. All names, contact details and figures shown are sample data, displayed prices are sample prices, and any form is interface-only — nothing is submitted and there is no backend. Open `index.html` in a browser. Licensed under MIT.
+
+Contact: contact@genalpha.dev
